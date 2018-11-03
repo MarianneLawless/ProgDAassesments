@@ -4,7 +4,7 @@
 # Problem Statement
 
 The following assignment concerns the **numpy.random** package in Python. 
-I have created a *Jupyter Notebook* explaining the use of the package, including detailed explanations of at least of the distributions provided for in the package.
+I have created a *Jupyter Notebook* explaining the use of the package, including detailed explanations of at five least of the distributions provided for in the package.
 
 There are four distinct tasks in which I carried out in my *Jupyter Notebook*, as follows
 1. An explanation of the overall purpose of the package
