@@ -1,11 +1,12 @@
 ## Programming for Data Analysis
 ### Assignment 2018 
 ### Start Date 10.10.2018  End Date 11.11.2018
-## Problem Statement
 ### The programming Language used to assist in writing code for this project is Python
 Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit. https://www.python.org/. 
 
-### The following assignment concerns the **numpy.random** package in Python.
+
+## Problem Statement##
+## The following assignment concerns the **numpy.random** package in Python.##
 
 NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
  
